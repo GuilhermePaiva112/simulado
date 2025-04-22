@@ -34,27 +34,23 @@ table {
 }
 
 #Linha1 {
-    height: 140px;
+    height: 180px;
 }
 
 #Linha2 {
-    height: 90px;
+    height: 140px;
 }
 
 #Linha3 {
-    height: 120px;
+    height: 270px;
 }
 
 #Linha4 {
-    height: 50px;
+    height: 70px;
 }
 
 #Linha5 {
-    height: 50px;
-}
-
-#Linha6 {
-    height: 80px;
+    height: 70px;
 }
 
 .logo01 {
