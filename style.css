@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    width: 100%;
+    height: 100vh;
+}
+
+.laranja {
+    background-color: rgb(186, 52, 1);
+    border: 1px solid rgb(80, 28, 7);
+}
+
+.amarelo {
+    background-color: rgb(223, 166, 10);
+    border: 1px solid rgb(206, 131, 18);
+}
+
+.laranjaEscuro {
+    background-color: rgb(166, 30, 0);
+    border: 1px solid rgb(65, 18, 7);
+}
+
+.roxo {
+    background-color: rgb(63, 1, 88);
+    border: 1px solid rgb(25, 8, 53);
+}
+
+.lilas {
+    background-color: rgb(156, 85, 159);
+    border: 1px solid rgb(82, 33, 67);
+}
+
+#Linha1 {
+    height: 140px;
+}
+
+#Linha2 {
+    height: 90px;
+}
+
+#Linha3 {
+    height: 120px;
+}
+
+#Linha4 {
+    height: 50px;
+}
+
+#Linha5 {
+    height: 50px;
+}
+
+#Linha6 {
+    height: 80px;
+}
+
+.logo01 {
+    height: 120px;
+}
+
+.image01 {
+    width: 50%;
+}
+
+.image02 {
+    width: 70%;
+}
+
+.td1 {
+    width: 29%;
+}
+
+.td2 {
+    text-align: end;
+}
+
+.td3 {
+    width: 35%;
+}
+
+.td4 {
+    width: 30%;
+}
+
+.td5 {
+    width: 7%;
+}
+
+.td6 {
+    width: 28%;
+    text-align: center;
+    vertical-align: top;
+}
+
+.td7 {
+    font-family: arial;
+    font-size: 1em;
+    text-align: justify;
+    vertical-align: top;
+    padding: 1%;
+}
+
+.td8 {
+    width: 25%;
+    vertical-align: bottom;
+}
